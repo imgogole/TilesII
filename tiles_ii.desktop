@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Tiles II
+Exec=$SCRIPT_DIR/launch.sh
+Icon=$SCRIPT_DIR/icon.png
+Terminal=false
+Categories=Game
