@@ -1,2 +1,3 @@
-# Tiles II
-Tiles II is the second version of the Tiles game realised by I'm Gogole
+# Tiles II - Linux Update Method
+
+This program automatically updates Tiles II - Multiplayer.
